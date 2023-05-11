@@ -1,0 +1,25 @@
+{
+  "Videos": [
+    {
+      "id": 1,
+      "title": "hi",
+      "genre": "film",
+      "public": "true",
+      "nbrShared": "300"
+    },
+    {
+      "id": 2,
+      "title": "helloo",
+      "genre": "film",
+      "public": "true",
+      "nbrShared": "300"
+    },
+    {
+      "id": 3,
+      "title": "zee",
+      "genre": "eze",
+      "public": true,
+      "nbrShared": 1
+    }
+  ]
+}
